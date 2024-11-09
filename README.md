@@ -34,7 +34,7 @@
 - Manual Testing & Test Case Design
 - End-to-End Testing (Cypress)
 - API Testing (Postman)
-- SQL (in progress)
+- SQL (HackerRank Basic Certified)
 
 ### Technical
 - React, Python, Flask
@@ -59,13 +59,8 @@
 - Established CI/CD workflow using GitHub Actions
 - [E-commerce Project](https://github.com/megb023/ecommerce-react-app)
 
-### Test Case Manager (In Progress)
-- SQL-based test management system
-- Focus on test case organization and execution tracking
-
 ## Currently Learning
 - 📚 ISTQB Foundation Level
-- 💻 SQL for Test Automation
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/matthew-b-b46077324)
