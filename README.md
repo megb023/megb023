@@ -61,7 +61,7 @@
 
 ### Demo Open Cart Application Testing (Selenium/Python, POM Design, Pytest)
 - Implemented end-to-end testing using Selenium/Python
-- Used Page Ojbect Model (POM) for modularity and maintainability of test scripts
+- Used Page Object Model (POM) for modularity and maintainability of test scripts
 - Utilized Pytest as testing framework for test case management and generating test reports
 - Configured Jenkins for automated test execution and reporting
 - [Selenium/Python Testing Framework Project](https://github.com/megb023/selenium-ecommerce-tests)
